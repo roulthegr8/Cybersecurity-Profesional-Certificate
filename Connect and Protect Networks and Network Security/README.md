@@ -6,4 +6,4 @@
 
 -----------------------------------------------
  
-https://coursera.org/verif y/UZH9NNR3H3C4
+https://coursera.org/verify/UZH9NNR3H3C4
