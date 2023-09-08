@@ -47,6 +47,23 @@ When you create a new rule, you'll need to test the rule to confirm whether or n
 
 ### Task 1 Examine a custom rule in Suricata
 
+![image](https://github.com/roulthegr8/Cybersecurity-Profesional-Certificate/assets/90126847/6a02ddad-de6e-4d4b-a9bd-e1847478352a)
+
+### Task 2. Trigger a custom rule in Suricata
+
+![image](https://github.com/roulthegr8/Cybersecurity-Profesional-Certificate/assets/90126847/32f708d1-58a6-4f43-9d91-785cb60d64ef)
+
+### Task 3. Examine eve.json output
+
+![image](https://github.com/roulthegr8/Cybersecurity-Profesional-Certificate/assets/90126847/941caddb-5863-47fa-a1a5-504f79a3b282)
+
+![image](https://github.com/roulthegr8/Cybersecurity-Profesional-Certificate/assets/90126847/7f05035d-b9fb-4a36-ba2c-d5a424e4a1b3)
+
+![image](https://github.com/roulthegr8/Cybersecurity-Profesional-Certificate/assets/90126847/d1dc977e-60df-4243-a633-860a3132e54d)
+
+
+
+
 
 
 
