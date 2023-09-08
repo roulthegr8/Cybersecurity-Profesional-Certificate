@@ -8,4 +8,5 @@ What you’ll do
  - Learn about the capabilities of a notebook environment
  - Write code comments in Python
  - Display strings with the print() function
- 
+
+
